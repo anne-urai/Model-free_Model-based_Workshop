@@ -20,6 +20,3 @@ You can of course also open the scripts in other Python applications (e.g. PyCha
 
 ## Work with copies!
 When you do the exercises we would recommend that you **copy** the exercise script, just so that you can have a backup version to refer back to if you get stuck during the exercise. You can easily to this in Google Colab by clicking on 'File' and then 'Save a copy in drive' which will open up a new tab with a copy of the script. In Jupyter Notebook, you can click on 'File' and then 'Make a Copy'.
-
-## Solutions to exercises
-The folder "solutions" contains the solutions to all the exercises in the "exercises" folder. Of course, you can spoil yourself, and go straight to the solutions. However, we encourage you to give the exercises a try. You might get stuck, but figuring out the solutions through some struggle (and some Googling) will greatly help you understand how this stuff works.
